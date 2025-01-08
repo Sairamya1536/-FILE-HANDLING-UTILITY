@@ -12,7 +12,7 @@
 
 **MENTOR NAME** :  Neela Santhosh Kumar 
 
-DIACRIPTION OF TASK :
+DISCRIPTION OF TASK :
 
 Here's a Java program that demonstrates how to read, write, and modify text files. This program allows you to: 
 1.Write to a file: Overwrite the contents of the file. 
